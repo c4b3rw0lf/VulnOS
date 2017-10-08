@@ -7,5 +7,5 @@ VulnOS are a series of deliberately vulnerable operating systems packed as virtu
 
 === Downloads ===
 
-https://www.vulnhub.com/series/vulnos,36/
-https://sourceforge.net/projects/vulnos/
+* https://www.vulnhub.com/series/vulnos,36/
+* https://sourceforge.net/projects/vulnos/
